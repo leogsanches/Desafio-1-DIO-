@@ -1,2 +1,4 @@
 # Desafio-1-DIO-
-Git / GitHub
+### Git / GitHub
+
+Primeiro desafio do projeto Git/GitHub
