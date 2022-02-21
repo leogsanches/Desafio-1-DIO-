@@ -1,0 +1,7 @@
+### Primeiro Projeto no Git
+
+Subindo um arquivo do Git para o GitHub
+
+
+
+Leonardo Sanches
